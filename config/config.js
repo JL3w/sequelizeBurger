@@ -1,6 +1,5 @@
 require("dotenv").config();
-module.exports = 
-
+module.exports =
 {
   "development": {
     "username": "root",
@@ -14,3 +13,4 @@ module.exports =
     "dialect": "mysql"
   }
 }
+module.exports 
